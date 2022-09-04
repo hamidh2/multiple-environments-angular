@@ -1,10 +1,10 @@
 export const environment = {
-  name: 'development',
+  name: 'qa',
   production: false,
-  apiKey: 'dev.fdasfdsafdsafdsa=',
-  identity_API_URL: 'https://dev.identity.com',
-  storage_API_URL: 'https://dev.storage.com',
-  users_API_URL: 'https://dev.user.com',
+  apiKey: 'qa.fdasfdsafdsafdsa=',
+  identity_API_URL: 'https://qa.identity.com',
+  storage_API_URL: 'https://qa.storage.com',
+  users_API_URL: 'https://qa.user.com',
   features: [
     {
       name: 'loggingSystem',

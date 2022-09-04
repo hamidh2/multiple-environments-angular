@@ -1,10 +1,10 @@
 export const environment = {
-  name: 'production',
+  name: 'stage',
   production: true,
-  apiKey: 'fdasfdsafdsafdsa=',
-  identity_API_URL: 'https://identity.com',
-  storage_API_URL: 'https://storage.com',
-  users_API_URL: 'https://user.com',
+  apiKey: 'stage.fdasfdsafdsafdsa=',
+  identity_API_URL: 'https://stage.identity.com',
+  storage_API_URL: 'https://stage.storage.com',
+  users_API_URL: 'https://stage.user.com',
   features: [
     {
       name: 'loggingSystem',
